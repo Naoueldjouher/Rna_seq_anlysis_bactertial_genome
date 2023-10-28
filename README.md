@@ -1,0 +1,1 @@
+# Rna_seq_anlysis_bactertial_genome
